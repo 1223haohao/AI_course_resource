@@ -1,0 +1,2 @@
+# AI_course_resource
+AI_course_resource
